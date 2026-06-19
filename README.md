@@ -62,12 +62,18 @@ Webcam Support Package
 
 computer-vision-image-processing-fundamentals/
 │
-├── computer_vision_image_processing_fundamentals.ipynb
-├── computer_vision_image_processing_fundamentals.m
-├── Computer_Vision_Image_Processing_Python_Report.pdf
-├── Computer_Vision_Image_Processing_MATLAB_Report.pdf
-├── README.md
+├── notebooks/
+│   └── computer_vision_image_processing_fundamentals.ipynb
+│
+├── matlab/
+│   └── computer_vision_image_processing_fundamentals.m
+│
+├── reports/
+│   ├── Computer_Vision_Image_Processing_Python_Report.pdf
+│   └── Computer_Vision_Image_Processing_MATLAB_Report.pdf
+│
 ├── LICENSE
+├── README.md
 └── .gitignore
 
 ## Reports
