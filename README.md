@@ -60,6 +60,7 @@ Webcam Support Package
 
 ## Repository Structure
 
+```text
 computer-vision-image-processing-fundamentals/
 │
 ├── notebooks/
