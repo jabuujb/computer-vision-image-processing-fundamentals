@@ -106,13 +106,14 @@ Feature extraction and image sharpening techniques
 <img width="953" height="575" alt="image" src="https://github.com/user-attachments/assets/683b383c-97fe-46d9-8aba-40011cc33871" />
 
 ## References
-MATLAB Image Processing Toolbox Documentation
-MATLAB Deep Learning Toolbox Documentation
-GoogLeNet: Going Deeper with Convolutions
-OpenCV Documentation
-NumPy Documentation
-TensorFlow Documentation
-Keras Documentation
+
+[1] MathWorks, *Image Processing Toolbox Documentation*. Natick, MA, USA: MathWorks. Available: https://www.mathworks.com/help/images/
+[2] MathWorks, *Deep Learning Toolbox Documentation*. Natick, MA, USA: MathWorks. Available: https://www.mathworks.com/help/deeplearning/
+[3] C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich, "Going Deeper with Convolutions," in *Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR)*, Boston, MA, USA, 2015.
+[4] OpenCV, *Open Source Computer Vision Library Documentation*. Available: https://docs.opencv.org/
+[5] NumPy Developers, *NumPy Documentation*. Available: https://numpy.org/doc/
+[6] TensorFlow Developers, *TensorFlow Documentation*. Available: https://www.tensorflow.org/
+[7] Keras Team, *Keras Documentation*. Available: https://keras.io/
 
 ## Author
 
