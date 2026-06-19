@@ -1,4 +1,5 @@
 ## Computer Vision and Image Processing Fundamentals
+<img width="512" height="512" alt="Lena" src="https://github.com/user-attachments/assets/7a6c8609-39a4-407a-96c0-6e1697b1ac6a" />
 
 ## Overview
 
@@ -90,16 +91,16 @@ Multi-stage image enhancement pipelines
 Feature extraction and image sharpening techniques
 
 ### Image Resizing
-(image)
+<img width="953" height="486" alt="image" src="https://github.com/user-attachments/assets/4a04be72-80a6-480e-b3c9-a47864adb97e" />
 
 ### Edge Detection
-(image)
+<img width="1354" height="681" alt="image" src="https://github.com/user-attachments/assets/0c2cd577-6f68-4439-ad7b-0ff550688421" />
 
 ### Deep Learning Classification
-(image)
+<img width="953" height="472" alt="image" src="https://github.com/user-attachments/assets/bbf597b1-c50f-4045-a999-ec478a79ee2c" />
 
 ### Image Enhancement
-(image)
+<img width="953" height="575" alt="image" src="https://github.com/user-attachments/assets/683b383c-97fe-46d9-8aba-40011cc33871" />
 
 ## References
 MATLAB Image Processing Toolbox Documentation
