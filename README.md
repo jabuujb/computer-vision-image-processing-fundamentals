@@ -45,18 +45,14 @@ Artificial Intelligence
 Machine Learning
 
 ## Technologies
-### Python
-Python
-NumPy
-OpenCV
-Matplotlib
-TensorFlow / Keras
-### MATLAB
-MATLAB
-Image Processing Toolbox
-Deep Learning Toolbox
-GoogLeNet Pretrained Network
-Webcam Support Package
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 ## Repository Structure
 
