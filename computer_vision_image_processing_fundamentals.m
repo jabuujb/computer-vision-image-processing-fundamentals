@@ -1,10 +1,28 @@
-%%% EE 267
-%% HW 1 MATLAB Side
-% Justin Ogle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Computer Vision and Image Processing Fundamentals
+%
+% Author: Justin Ogle
+%
+% Description:
+% This project demonstrates fundamental computer vision and image
+% processing techniques using MATLAB. Implemented methods include image
+% preprocessing, convolution-based edge detection, deep learning image
+% classification, image enhancement, and feature extraction.
+%
+% Topics Covered:
+% - Image Resizing and Preprocessing
+% - Sobel and Prewitt Edge Detection
+% - Convolution Operations
+% - Deep Learning Image Classification (GoogLeNet)
+% - Laplacian Image Enhancement
+% - Gamma Correction
+% - Image Sharpening and Masking
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%
-
-% Problem 1 - Resize Lena image
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Image Resizing and Preprocessing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Load and resize the Lena image
 I = plt.imread('Lena.png')
 resized_image = cv2.resize(I, (224, 224))
@@ -18,9 +36,10 @@ axs[1].set_title('Resized Lena Image (224x224)')
 plt.show()
 
 
-%%%%%%%%%%%%%%%%%%%
-
-% Problem 2 - Convolution using Sobel and Prewitt using conv2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Edge Detection Using Convolution Filters
+%% Sobel and Prewitt Operator Comparison
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Load the image
 I = imread('Lena.png');
 
@@ -50,9 +69,9 @@ subplot(2, 2, 4), imshowpair(uint8(abs(CG_sobel)), uint8(abs(CG_prewitt)), 'mont
 title('Comparison: Sobel (left) vs Prewitt (right) using conv2');
 
 
-%%%%%%%%%%%%%%%%%%%
-
-% Problem 3 - Classify Webcam Images Using Deep Learning
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Real-Time Image Classification Using GoogLeNet
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % https://www.mathworks.com/help/deeplearning/ug/classify-images-from-webcam-using-deep-learning.html
 
@@ -168,9 +187,9 @@ clear camera;
 
 
 
-%%%%%%%%%%%%%%%%%%%
-
-% Problem 4 - Image Processing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Image Enhancement and Feature Extraction Pipeline
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % a.) Show Fig0343(a)(skeleton_orig).tif.
 original_image = imread('Fig0343(a)(skeleton_orig).tif');
 figure;
@@ -211,24 +230,17 @@ subplot(3, 3, 9), imshow([original_image, uint8(final_sharpened_image), im2uint8
 % Adjusting the figure for better visualization
 set(gcf, 'Position', get(0, 'Screensize'));
 
-%%%%%%%%%%%%%%%%%%%
-
-%% Using MATLAB
-
-%% Problem 1
-%  It was good for a double check.
-
-%% Problem 2
-%  It was good for a double check.
-
-%% Problem 3
-% Pointed me to the Classify Webcam Images Using Deep Learning & assisted
-% in helping me configure my web cam.
-
-%% Problem 4
-% It assisted with combination of using libraries and understanding of the
-% different methods of image processing.
-
-% Overall using Chat GPT, I find that it is a good tool to assist with learning.
-
-%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project Summary
+%
+% This project explores foundational computer vision and image processing
+% techniques through practical MATLAB implementations. The workflow
+% demonstrates image preprocessing, edge detection, image enhancement,
+% feature extraction, and deep learning-based image classification using
+% pre-trained convolutional neural networks.
+%
+% These techniques provide a foundation for modern computer vision
+% applications used in autonomous systems, robotics, object detection,
+% image analytics, and artificial intelligence.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
