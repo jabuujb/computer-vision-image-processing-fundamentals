@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project demonstrates fundamental computer vision and image
-processing techniques using Python, OpenCV, NumPy, TensorFlow/Keras,
-and MATLAB.
+This project explores core computer vision and image processing techniques through practical implementations in Python. Topics include image preprocessing, convolution operations, edge detection, image enhancement, feature extraction, and deep learning-based image classification. The work demonstrates the progression from classical image processing methods to modern CNN-based computer vision systems commonly used in autonomous systems, robotics, and AI applications.
 
 ## Techniques Implemented
 
