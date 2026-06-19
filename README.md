@@ -76,7 +76,7 @@ computer-vision-image-processing-fundamentals/
 ├── LICENSE
 ├── README.md
 └── .gitignore
-
+```
 ## Reports
 
 Python Implementation
