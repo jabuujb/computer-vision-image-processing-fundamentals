@@ -113,14 +113,17 @@ Keras Documentation
 
 ## Author
 
-Justin Ogle
+**Justin Ogle**
 
 M.S. Electrical Engineering (Automation & Robotics)
 
 Areas of Interest:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Robotics
+- Defense Analytics
 
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Robotics and Automation
-Autonomous Systems
+LinkedIn: https://www.linkedin.com/in/justin-ogle-b78233b0
+
+GitHub: https://github.com/jabuujb
