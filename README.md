@@ -127,21 +127,13 @@ This repository demonstrates a progression from foundational image processing co
 
 ## Reports
 
-### Computer Vision Fundamentals (Python)
+| Report                                                                                                       | Description                                                                                                                                 | Pages    |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Computer Vision Image Processing Python Report](reports/Computer_Vision_Image_Processing_Python_Report.pdf) | Image preprocessing, edge detection, image enhancement, and deep learning image classification using Python.                                | XX pages |
+| [Computer Vision Image Processing MATLAB Report](reports/Computer_Vision_Image_Processing_MATLAB_Report.pdf) | Convolution filtering, edge detection, image enhancement, and real-time image classification using GoogLeNet.                               | XX pages |
+| [Image Filtering and Enhancement Python Report](reports/Image_Filtering_and_Enhancement_Python_Report.pdf)   | Gaussian filtering, bilateral filtering, edge-preserving smoothing, and image quality assessment.                                           | XX pages |
+| [Image Processing From Scratch Python Report](reports/Image_Processing_From_Scratch_Python_Report.pdf)       | Custom implementations of image filtering, convolution operations, and image quality metrics with minimal reliance on high-level libraries. | XX pages |
 
-Demonstrates image preprocessing, edge detection, image enhancement, and deep learning image classification techniques using Python.
-
-### Computer Vision Fundamentals (MATLAB)
-
-Demonstrates convolution filtering, edge detection, image enhancement, and real-time image classification using GoogLeNet.
-
-### Advanced Image Filtering and Enhancement Using Python
-
-Demonstrates Gaussian filtering, edge-preserving smoothing, bilateral filtering, and image quality assessment techniques commonly used in computer vision applications.
-
-### Image Processing Algorithms from Scratch Using Python
-
-Implements image processing algorithms with minimal reliance on high-level computer vision libraries to provide insight into the mathematical foundations of filtering, smoothing, and image quality evaluation.
 
 ## Results
 
