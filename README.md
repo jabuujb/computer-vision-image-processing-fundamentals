@@ -77,6 +77,9 @@ Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![scikit-image](https://img.shields.io/badge/scikit--image-F7931E?logo=scikitlearn&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?logo=python&logoColor=white)
 
 ## Repository Structure
 
@@ -168,6 +171,20 @@ The included projects provide both practical implementations using industry-stan
 
 ### Image Enhancement
 <img width="953" height="575" alt="image" src="https://github.com/user-attachments/assets/683b383c-97fe-46d9-8aba-40011cc33871" />
+
+### Gaussian Filtering Comparison
+<img width="1531" height="776" alt="image" src="https://github.com/user-attachments/assets/a2e729a0-a925-4469-b387-31941d952624" />
+
+### Edge-Preserving Smoothing
+<img width="832" height="418" alt="image" src="https://github.com/user-attachments/assets/52beedd0-9fde-491a-9109-39d3b6bb674f" />
+
+### Image Quality Assessment
+<img width="280" height="68" alt="image" src="https://github.com/user-attachments/assets/e0cf496e-2145-4cc6-a329-0918b18f1dc4" />
+
+### From-Scratch Image Processing
+<img width="628" height="324" alt="image" src="https://github.com/user-attachments/assets/85fd4a94-c5be-4895-8f77-478da99aa11a" />
+<img width="628" height="218" alt="image" src="https://github.com/user-attachments/assets/4d6cf7dc-d329-4f50-936d-e4d9f421d219" />
+<img width="192" height="63" alt="image" src="https://github.com/user-attachments/assets/3ae5e4d8-fd42-4315-a5b3-773269367677" />
 
 ## References
 
