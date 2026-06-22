@@ -184,15 +184,24 @@ The included projects provide both practical implementations using industry-stan
 
 [2] MathWorks, *Deep Learning Toolbox Documentation*. Natick, MA, USA: MathWorks. Available: https://www.mathworks.com/help/deeplearning/
 
-[3] C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich, "Going Deeper with Convolutions," in *Proc. IEEE Conf. Computer Vision and Pattern Recognition (CVPR)*, Boston, MA, USA, 2015.
+[3] C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich, "Going Deeper with Convolutions," in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Boston, MA, USA, 2015.
 
-[4] OpenCV, *Open Source Computer Vision Library Documentation*. Available: https://docs.opencv.org/
+[4] OpenCV Team, *OpenCV Documentation*. Available: https://docs.opencv.org/
 
 [5] NumPy Developers, *NumPy Documentation*. Available: https://numpy.org/doc/
 
 [6] TensorFlow Developers, *TensorFlow Documentation*. Available: https://www.tensorflow.org/
 
 [7] Keras Team, *Keras Documentation*. Available: https://keras.io/
+
+[8] SciPy Developers, SciPy Documentation.
+    Available: https://docs.scipy.org/
+
+[9] scikit-image Developers, scikit-image Documentation.
+    Available: https://scikit-image.org/
+
+[10] Pillow Developers, Pillow Documentation.
+     Available: https://pillow.readthedocs.io/
 
 ## Author
 
