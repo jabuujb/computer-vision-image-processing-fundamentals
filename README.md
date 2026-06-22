@@ -91,14 +91,14 @@ Classical image processing techniques are combined with modern deep learning app
 
 The techniques demonstrated in this project are foundational to:
 
-Computer Vision Systems
-Object Detection and Recognition
-Robotics and Automation
-Autonomous Systems
-Medical Image Analysis
-Image Analytics
-Artificial Intelligence
-Machine Learning
+- Computer Vision Systems
+- Object Detection and Recognition
+- Robotics and Automation
+- Autonomous Systems
+- Medical Image Analysis
+- Image Analytics
+- Artificial Intelligence
+- Machine Learning
 
 ## Technologies
 
