@@ -8,28 +8,60 @@ This repository demonstrates foundational and intermediate computer vision and i
 Classical image processing techniques are combined with modern deep learning approaches to illustrate how images can be analyzed, enhanced, and classified. These concepts form the foundation of many applications in computer vision, robotics, autonomous systems, medical imaging, and artificial intelligence.
 
 ## Techniques Implemented
-Image Resizing and Preprocessing
-Image loading and visualization
-Image resizing to standardized dimensions
-Preparation of images for computer vision and deep learning workflows
-Edge Detection Using Convolution Filters
-Sobel edge detection
-Prewitt edge detection
-Convolution operations using custom kernels
-Comparative analysis of edge detection methods
-Deep Learning Image Classification
-Real-time webcam image classification
-Pre-trained GoogLeNet convolutional neural network
-Top-5 prediction probability visualization
-Deep learning inference using MATLAB and Python
-Image Enhancement and Feature Extraction
-Laplacian filtering
-Image sharpening
-Sobel feature extraction
-Averaging filters
-Image masking
-Gamma correction
-Enhancement pipeline development
+
+### Image Resizing and Preprocessing
+
+- Image loading and visualization
+- Image resizing to standardized dimensions
+- Preparation of images for computer vision and deep learning workflows
+
+### Edge Detection Using Convolution Filters
+
+- Sobel edge detection
+- Prewitt edge detection
+- Convolution operations using custom kernels
+- Comparative analysis of edge detection methods
+
+### Deep Learning Image Classification
+
+- Real-time webcam image classification
+- Pre-trained GoogLeNet convolutional neural network
+- Top-5 prediction probability visualization
+- Deep learning inference using MATLAB and Python
+
+### Image Enhancement and Feature Extraction
+
+- Laplacian filtering
+- Image sharpening
+- Sobel feature extraction
+- Averaging filters
+- Image masking
+- Gamma correction
+- Enhancement pipeline development
+
+### Advanced Image Filtering and Enhancement
+
+- Gaussian noise modeling
+- Gaussian filtering with multiple kernel sizes
+- Bilateral filtering
+- Edge-preserving smoothing
+- Noise reduction analysis
+- Filtering performance comparison
+
+### Image Quality Assessment
+
+- Root Mean Square Error (RMSE)
+- Peak Signal-to-Noise Ratio (PSNR)
+- Entropy analysis
+- Quantitative image quality evaluation
+
+### From-Scratch Image Processing Algorithms
+
+- Custom convolution operations
+- Manual Gaussian filtering
+- Bilateral filtering implementation
+- Adaptive smoothing techniques
+- Image quality metric calculations
 
 ### Advanced Image Filtering and Enhancement
 
